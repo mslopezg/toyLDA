@@ -10,4 +10,5 @@ In main.py, there is an example of the model. The model outputs a reassignment t
 
 I would like to include that this implementation is fully based on the Latent Dirichlet Allocation paper by David M. Blei, Andrew Y. Ng, and Michael I. Jordan.
 The paper can be found at the link below:
+
 http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf

@@ -1,6 +1,9 @@
 # toyLDA
 This is a toy implementation of an Latent Dirichlet Allocation model for Topic modeling.
 
+## Assumptions made:
+
+I decided to make an assumption to simplify my implementation of the model. I assumed that any input of documents were going to have the same number of words. I address this assumption in a comment in the __init__ definition in the LDA class.
 
 ## How to use:
 
